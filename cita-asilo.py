@@ -137,7 +137,7 @@ while cycle_cita == True:
      
      country = WebDriverWait(browser, 10).until(
           EC.presence_of_element_located(
-           (By.XPATH, "//option[@value='248']")))  #Sustituye el valor "248 por el país de tu nacionalidad: revisa el archivo nacionalidades.txt y sustituye el valor 248 por el código de tu país
+           (By.XPATH, "//option[@value='248']")))  #Sustituye el valor "248" (Venezuela) por el valor de tu país de tu nacionalidad: revisa el archivo nacionalidades.txt y sustituye el valor 248 por el código de tu país
            
      country.click()
 
