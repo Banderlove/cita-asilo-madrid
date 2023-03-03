@@ -18,7 +18,7 @@ Instalación
 
 3. Install Google Chrome.
 
-4. Descargar[chromedriver](https://chromedriver.chromium.org/downloads) y ponlo en el directorio raíz de Python.
+4. Descargar [chromedriver](https://chromedriver.chromium.org/downloads) y ponlo en el directorio raíz de Python.
 
 6. Edita el archivo `cita-asilo.py` con un bloc de notas o un editor de código e introduce tus datos personales:
    
