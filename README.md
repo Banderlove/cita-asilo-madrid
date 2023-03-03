@@ -1,7 +1,7 @@
 Este script de selenium te ayuda a cofer cita para asilo en CNP/ExtranjeriaMadrid
 Este script de selenium te ayuda a cofer cita para asilo en CNP/ExtranjeriaMadrid
 
-Activa el volumen para escuchar el pítido fuerte que emite el programa cuando encuentra citas
+Activa el volumen para escuchar el pítido fuerte que emite el programa cuando hay citas disponibles.
 
 Trámites disponibles:
 -------------
