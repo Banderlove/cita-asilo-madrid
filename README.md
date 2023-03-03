@@ -12,7 +12,7 @@ Provincia:
 Instalación
 -------------------
 
-1. Instala [Python](https://www.python.org/downloads/).
+1. Descarga e instala [Python](https://www.python.org/downloads/).
 
 2. Abre cmd en la carpeta donde tengas este proyecto y escribe `pip install -r requirements.txt`
 
