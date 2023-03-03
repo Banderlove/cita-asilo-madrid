@@ -16,7 +16,7 @@ Instalación
 
 2. Abre cmd en la carpeta donde tengas este proyecto y escribe `pip install -r requirements.txt`
 
-3. Install Google Chrome.
+3. Instala Google Chrome.
 
 4. Descargar [chromedriver](https://chromedriver.chromium.org/downloads) y ponlo en el directorio raíz de Python.
 
