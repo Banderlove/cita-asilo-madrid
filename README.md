@@ -28,7 +28,7 @@ Instalación
    
    Línea 130 sustituye "YEAR" por tu fecha de nacimiento que aparezca en tu pasaporte,tiene que llevar comillas "",ejemplo: "1986".
    
-   Línea 140 sustituye el valor "248" por el país de tu nacionalidad: revisa el archivo nacionalidades.txt y sustituye el valor 248 por el código de tu país.
+   Línea 140 sustituye el valor "248" por el país de tu nacionalidad: revisa el archivo [nacionalidades.txt](https://github.com/MisterDarkZ/cita-asilo-madrid/blob/main/nacionalidades.txt) y sustituye el valor 248 por el código de tu país.
    
 7. Abre cmd y escribe `cita-asilo.txt python3`.
 
