@@ -22,15 +22,15 @@ Instalación
 
 6. Edita el archivo `cita-asilo.py` con un bloc de notas o un editor de código e introduce tus datos personales:
    
-   Línea 113 sustituye "PASSPORT" por tu número de pasaporte,tiene que llevar comillas "",ejemplo: "185201478"
+   Línea 113 sustituye "PASSPORT" por tu número de pasaporte,tiene que llevar comillas "",ejemplo: "185201478".
    
-   Línea 123 sustituye" "NAME LASTNAME LASTNAME" por tu nombre y apellidos que aparezcan en tu pasaporte,tiene que llevar "",ejemplo: "ALBERTO TORRES RUIZ"
+   Línea 123 sustituye" "NAME LASTNAME LASTNAME" por tu nombre y apellidos que aparezcan en tu pasaporte,tiene que llevar "",ejemplo: "ALBERTO TORRES RUIZ".
    
-   Línea 130 sustituye "YEAR" por tu fecha de nacimiento que aparezca en tu pasaporte,tiene que llevar comillas "",ejemplo: "1986"
+   Línea 130 sustituye "YEAR" por tu fecha de nacimiento que aparezca en tu pasaporte,tiene que llevar comillas "",ejemplo: "1986".
    
-   Línea 140 sustituye el valor "248 por el país de tu nacionalidad: revisa el archivo nacionalidades.txt y sustituye el valor 248 por el código de tu país
+   Línea 140 sustituye el valor "248" por el país de tu nacionalidad: revisa el archivo nacionalidades.txt y sustituye el valor 248 por el código de tu país.
    
-7. Abre cmd y escribe `cita-asilo.txt python3`
+7. Abre cmd y escribe `cita-asilo.txt python3`.
 
 CUANDO EL BOT ENCUENTRA CITA EMITE UN PITIDO CONSTANTE,POR LO QUE ACTIVA Y SUBE EL VOLUMEN DE ORDENADOR PARA PODER ESCUCHARLO,CUANDO ENCUENTRA CITA TIENES 10 MINUTOS PARA RELLENAR TUS DATOS MANUALMENTE PORQUE SI NO EN 10 MINUTOS SE APAGA EL NAVEGADOR Y EL BOT.
 
